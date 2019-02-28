@@ -29,6 +29,11 @@
       "thread": 3,
       "text": "I need a new guitar to play the most savory licks in Ooo",
       "user": 1
+    },
+    {
+      "thread": 4,
+      "text": "Hey, check out my new dog",
+      "user": 4
     }
   ]
 }
