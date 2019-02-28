@@ -14,6 +14,11 @@
       "id": 3,
       "title": "In search of a new guitar",
       "createdBy": 1
+    },
+    {
+      "id": 4,
+      "title": "An update to my life",
+      "createdBy": 4
     }
   ]
 }
