@@ -29,6 +29,12 @@
       "username": "sith_master",
       "name": "Darth Sidius",
       "bio": "Ruler of the galactic empire, mentor to the supreme big bad"
+    },
+    {
+      "id": 6,
+      "username": "K",
+      "name": "kay",
+      "bio": "Everything is transparent to us through the nature that guides us."
     }
   ]
 }
