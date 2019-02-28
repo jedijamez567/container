@@ -23,6 +23,12 @@
       "username": "jake",
       "name": "Jake the Dog",
       "bio": "Former criminal, now magical dog adventurer, and father"
+    },
+    {
+      "id": 5,
+      "username": "sith_master",
+      "name": "Darth Sidius",
+      "bio": "Ruler of the galactic empire, mentor to the supreme big bad"
     }
   ]
 }
